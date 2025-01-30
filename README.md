@@ -52,7 +52,7 @@ Microsoft.EntityFrameworkCore                   -version 7.0.13
 Microsoft.EntityFrameworkCore.Design            -version 7.0.13
 Microsoft.EntityFrameworkCore.InMemory          -version 7.0.13
 Microsoft.EntityFrameworkCore.Tools             -version 7.0.13
-NpgSql.EntityFrameworkCore.PostGresSql          -version 7.0.11
+NpgSql.EntityFrameworkCore.PostGreSql          -version 7.0.11
 Swashbuckle.AspNetCore                          -version 6.5.0
 System.IdentityModel.Tokens.Jwt                 -version 7.0.3
 
